@@ -13,7 +13,3 @@ Carthage/Build
 
 # Lumberjack generated files
 LumberjackUser*.h
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
